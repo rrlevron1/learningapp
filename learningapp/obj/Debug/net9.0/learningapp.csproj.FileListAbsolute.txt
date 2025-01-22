@@ -95,3 +95,4 @@ c:\Users\rrlev\OneDrive\Documents\projects\tmp2\learningapp\obj\Debug\net9.0\ref
 c:\Users\rrlev\OneDrive\Documents\projects\tmp2\learningapp\obj\Debug\net9.0\learningapp.pdb
 c:\Users\rrlev\OneDrive\Documents\projects\tmp2\learningapp\obj\Debug\net9.0\learningapp.genruntimeconfig.cache
 c:\Users\rrlev\OneDrive\Documents\projects\tmp2\learningapp\obj\Debug\net9.0\ref\learningapp.dll
+C:\Users\rrlev\OneDrive\Documents\projects\tmp2\learningapp\obj\Debug\net9.0\learningapp.sourcelink.json
