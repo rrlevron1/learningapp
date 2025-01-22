@@ -1,0 +1,7 @@
+C:\Users\rrlev\OneDrive\Documents\projects\tmp2\learningapp\bin\Publish\learningapp.exe
+C:\Users\rrlev\OneDrive\Documents\projects\tmp2\learningapp\bin\Publish\appsettings.Development.json
+C:\Users\rrlev\OneDrive\Documents\projects\tmp2\learningapp\bin\Publish\appsettings.json
+C:\Users\rrlev\OneDrive\Documents\projects\tmp2\learningapp\bin\Publish\learningapp.dll
+C:\Users\rrlev\OneDrive\Documents\projects\tmp2\learningapp\bin\Publish\learningapp.deps.json
+C:\Users\rrlev\OneDrive\Documents\projects\tmp2\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\Users\rrlev\OneDrive\Documents\projects\tmp2\learningapp\bin\Publish\learningapp.pdb
